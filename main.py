@@ -113,3 +113,5 @@ btn_download.pack(pady=10)
 
 # Pencereyi başlat
 root.mainloop()
+
+#Hazırlayan Yasin Gökbulak
