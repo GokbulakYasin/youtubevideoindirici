@@ -9,7 +9,6 @@ Basit ve sade bir arayüzle YouTube videolarını bilgisayarına indirmeni sağl
 - ✅ MP3 formatında ses indirimi  
 - ✅ Dinamik ilerleme çubuğu (progress bar)  
 - ✅ Klasör seçme özelliği (varsayılan: proje içindeki `downloads` klasörü)  
-- ✅ Karanlık, sade ve modern arayüz tasarımı  
 
 ## 🛠️ Gereksinimler
 
